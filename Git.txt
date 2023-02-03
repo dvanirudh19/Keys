@@ -1,0 +1,36 @@
+Configure details:
+  git config --global user.name ""
+  git config --global user.email ""
+
+View details:
+   git config user.name
+   git config user.email
+
+Add files :
+   git add . (all files)
+   git add filename
+
+Remove files:
+   git rm --cached filename
+
+Status:
+   git status
+
+Commit:
+   git commit -m "message"
+
+Histroy:
+  git log
+
+branch:
+  git branch
+  git branch branch_name
+  
+checkout:
+  git checkout branch_name
+
+Staged:
+  
+Compare:
+ git diff filename
+
