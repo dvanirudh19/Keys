@@ -36,3 +36,9 @@ Compare:
 
 Clone:
  git clone "https"
+
+Pull:
+ git pull
+
+Generate SSH key:
+  ssh-keygen -t ed25519 -C "your_email@example.com"
