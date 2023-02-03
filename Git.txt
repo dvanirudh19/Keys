@@ -34,3 +34,5 @@ Staged:
 Compare:
  git diff filename
 
+Clone:
+ git clone "https"
